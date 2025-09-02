@@ -1,4 +1,4 @@
-module github.com/apache/opendal-go-services/s3
+module github.com/ariyn/opendal-go-services/s3
 
 go 1.22.4
 

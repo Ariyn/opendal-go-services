@@ -1,4 +1,4 @@
-module github.com/apache/opendal-go-services/memory
+module github.com/ariyn/opendal-go-services/memory
 
 go 1.22.4
 
